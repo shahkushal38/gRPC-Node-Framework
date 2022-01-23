@@ -7,7 +7,9 @@
   "license": "MIT",
   "scripts": {
     "start": "nodemon --exec npm run babel-node -- index.js",
-    "babel-node": "babel-node --presets='@babel/preset-env'"
+    "babel-node": "babel-node --presets='@babel/preset-env'",
+    "prepare": "husky install",
+    "format": "prettier --write ."
   },
   "dependencies": {
     "@grpc/grpc-js": "^1.5.3",
