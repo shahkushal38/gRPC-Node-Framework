@@ -3,6 +3,10 @@ service Student {
   rpc SayHello (StudentRequest) returns (StudentReply) {}
   rpc SayHelloAgain(StudentRequest) returns (StudentReply){}
 }
+service User {
+  rpc SayHello (StudentRequest) returns (StudentReply) {}
+  rpc SayHelloAgain(StudentRequest) returns (StudentReply){}
+}
 message StudentRequest {
   string name = 1;
 }
