@@ -3,6 +3,6 @@ export default {
     callback(null, { message: "Hello " + call.request.name });
   },
   sayHelloAgain(call, callback) {
-    callback(null, { message: "Hello " + call.request.name });
+    callback(null, { message:"Hello "+ call.request.name });
   },
 };
