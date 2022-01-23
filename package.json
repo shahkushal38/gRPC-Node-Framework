@@ -9,6 +9,8 @@
     "babel-node": "babel-node --presets='@babel/preset-env' --ignore='foo|bar|baz'"
   },
   "dependencies": {
+    "@grpc/grpc-js": "^1.5.3",
+    "@grpc/proto-loader": "^0.6.9",
     "dotenv": "^14.2.0"
   },
   "devDependencies": {
