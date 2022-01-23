@@ -1,0 +1,11 @@
+syntax = "proto3";
+service Teacher {
+  rpc SayHello (StudentRequest) returns (StudentReply) {}
+  rpc SayHelloAgain(StudentRequest) returns (StudentReply){}
+}
+message StudentRequest {
+  string name = 1;
+}
+message StudentReply {
+  string message = 1;
+}
