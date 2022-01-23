@@ -1,0 +1,19 @@
+{
+  "name": "GRPC-Framework",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wohlig/GRPC-Framework.git",
+  "author": "Chintan Shah <chintan@wohlig.com>",
+  "license": "MIT",
+  "scripts": {
+    "babel-node": "babel-node --presets='@babel/preset-env' --ignore='foo|bar|baz'"
+  },
+  "dependencies": {
+    "dotenv": "^14.2.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  }
+}
