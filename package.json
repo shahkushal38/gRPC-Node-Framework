@@ -12,7 +12,8 @@
   "dependencies": {
     "@grpc/grpc-js": "^1.5.3",
     "@grpc/proto-loader": "^0.6.9",
-    "dotenv": "^14.2.0"
+    "dotenv": "^14.2.0",
+    "lodash": "^4.17.21"
   },
   "devDependencies": {
     "@babel/core": "^7.16.12",
