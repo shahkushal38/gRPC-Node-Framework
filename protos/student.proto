@@ -1,15 +1,11 @@
 syntax = "proto3";
 service Student {
-  // Sends a greeting
   rpc SayHello (StudentRequest) returns (StudentReply) {}
-  //sends another rpc greeting
   rpc SayHelloAgain(StudentRequest) returns (StudentReply){}
 }
-// The request message containing the user's name.
 message StudentRequest {
   string name = 1;
 }
-// The response message containing the greetings
 message StudentReply {
   string message = 1;
 }
