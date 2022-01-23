@@ -12,7 +12,7 @@
 
 ### 1. Introduction <a name="introduction"></a>
 
-**GRPC Framework** can use used as Git Template for Projects related to microservices.
+**gRPC Framework** can use used as Git Template for Projects related to microservices.
 
 This is an Opinionated Framework which uses the following Technologies for the Microservices
 

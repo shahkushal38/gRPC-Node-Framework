@@ -1,5 +1,5 @@
 {
-  "name": "GRPC-Framework",
+  "name": "gRPC-Framework",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/wohlig/GRPC-Framework.git",
