@@ -1,4 +1,4 @@
-# GRPC Framework
+# gRPC-Framework
 
 ### Index
 
@@ -31,7 +31,7 @@ This is an Opinionated Framework which uses the following Technologies for the M
 5. Create **.env** file in your local Repository and add the following details content in the file. [Read More](https://www.npmjs.com/package/dotenv)
 
 ```shell
-APP_ID=WohligFramework
+APP_ID=gRPC-Framework
 PORT=50051
 LOG_LEVEL=debug
 ```
