@@ -16,7 +16,7 @@
 
 This is an Opinionated Framework which uses the following Technologies for the Microservices
 
-1. [NodeJS](https://nodejs.org) - _14.0.0 or Above_
+1. [NodeJS](https://nodejs.org) - _16.0.0 or Above_
 
 ### 2. Get Started <a name="get-started"></a>
 
@@ -36,19 +36,11 @@ PORT=50051
 LOG_LEVEL=debug
 ```
 
-5. Install the Dependencies for the framework using yarn
+6. Install the Dependencies for the framework using yarn
 
 ```shell
 yarn install
 ```
-
-6. Change the project name in the following files
-
-    1. **production.yml** - Change the Value name with [Title Case](https://www.grammar-monster.com/lessons/capital_letters_title_case.htm) without space
-
-    2. **package.json** - Change the name and description with name in [Kebab Case](https://wiki.c2.com/?KebabCase)
-
-    3. **.env** - Change APP_ID with the project Name in [Title Case](https://www.grammar-monster.com/lessons/capital_letters_title_case.htm) without space
 
 7. Run the Application with Yarn
 
