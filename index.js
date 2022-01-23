@@ -1,10 +1,10 @@
-require('dotenv').config();
+require("dotenv").config();
 global.pwd = __dirname;
 global.env = process.env;
-require('./lib/globals');
-require(pwd + '/config/globals');
+require("./lib/globals");
+require(pwd + "/config/globals");
 // require('./lib/mongoose.js');
-require('./lib/grpc.js');
+require("./lib/grpc.js");
 // require(pwd + '/config/middleware.js');
 // require('./lib/responses.js');
 // require('./lib/controllers.js');
