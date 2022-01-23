@@ -6,6 +6,7 @@
   "author": "Chintan Shah <chintan@wohlig.com>",
   "license": "MIT",
   "scripts": {
+    "start": "nodemon --exec npm run babel-node -- index.js",
     "babel-node": "babel-node --presets='@babel/preset-env' --ignore='foo|bar|baz'"
   },
   "dependencies": {
