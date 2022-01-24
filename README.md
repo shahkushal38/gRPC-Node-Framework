@@ -56,7 +56,7 @@ If Application Starts Properly you will find the following response
 Server Started at Port 50051
 ```
 
-In Case you find issues please following the steps provided above or contact the core team of Wohlig Transformation.
+In Case you find issues please following the steps provided above or contact chintan@wohlig.com
 
 ### 3. Submit Issue
 
