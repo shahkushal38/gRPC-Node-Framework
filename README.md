@@ -20,7 +20,7 @@ This is an Opinionated Framework which uses the following Technologies for the M
 
 ### 2. Get Started <a name="get-started"></a>
 
-1. Create Git Repository using Wohlig Framework as the Template. [Read More](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
+1. Create Git Repository using gRPC Framework as the Template. [Read More](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template)
 
 2. Make Sure you have NodeJS _16.0.0 or above_ installed on your local machine. [Read More](https://nodejs.org/en/)
 
@@ -60,4 +60,4 @@ In Case you find issues please following the steps provided above or contact the
 
 ### 3. Submit Issue
 
-Submit us on [Github Repository](https://github.com/wohlig/wohligFramework/issues)
+Submit us on [Github Repository](https://github.com/wohlig/gRPC-Framework/issues)
