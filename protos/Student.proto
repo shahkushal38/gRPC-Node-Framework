@@ -13,3 +13,10 @@ message StudentRequest {
 message StudentReply {
   string message = 1;
 }
+
+
+
+
+Student.saveStudent(data,(err,data) {
+
+})
