@@ -17,6 +17,3 @@ message StudentReply {
 
 
 
-Student.saveStudent(data,(err,data) {
-
-})
