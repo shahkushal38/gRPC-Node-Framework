@@ -39,13 +39,25 @@ LOG_LEVEL=debug
 6. Install the Dependencies for the framework using yarn
 
 ```shell
-yarn install
+yarn install  
 ```
+or
+
+```shell
+npm install  
+```
+
 
 7. Run the Application with Yarn
 
 ```shell
 yarn start
+```
+
+or
+
+```shell
+npm start  
 ```
 
 Now your application will start
